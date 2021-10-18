@@ -1,0 +1,22 @@
+body{
+ text-align: center;
+    background-color: cyan;
+}
+div{
+    margin top:15px;
+    justify-content: center;
+}
+.image-section{
+    display: flex;
+    justify-content: center;
+}
+.style-section{
+    margin-right:25px;
+    margin-left: 25px;
+    background-color:deeppink;
+}
+img{
+    width:300px;
+    padding: 5px;
+    border:solid;
+}
